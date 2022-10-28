@@ -14,5 +14,5 @@ int main()
     cout << ageLst[5] << endl;
     cout << ageLst[0] << endl;
     cout << "It is all" << endl;
-//    cout << "Hello Vicente!";
+    cout << "Hello Vicente!";
 }
